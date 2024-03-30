@@ -1,5 +1,5 @@
 function hello() {
-  return ; // Ubah Kode disini
+  return "hello world wkwkwk"; // Ubah Kode disini
 }
 
 function soalKedua()
